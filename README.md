@@ -20,7 +20,7 @@
 
 ## 🧐 Sobre <a name = "sobre"></a>
 
-O projeto tem como objetivo realizar uma aplicação fullstack com as opções de adicionar, ler, atualizar e remover informações. As ferramentas do .NET Core foram utilizadas para auxiliar na construção da API, enquanto toda a parte do front foi construída utilizando os recrusos do React.
+O projeto tem como objetivo realizar uma aplicação fullstack com as opções de adicionar, ler, atualizar e remover informações. As ferramentas do .NET Core foram utilizadas para auxiliar na construção da API, enquanto toda a parte do front foi construída utilizando os recursos do React.
 
 ## 🏁 Primeiros Passos <a name = "primeiros_passos"></a>
 
