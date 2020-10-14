@@ -47,7 +47,7 @@ Outras dúvidas podem ser sanadas pelo repositório do [Create React App.](https
 - [ReactJs](https://reactjs.org) - Web Framework
 - [ReactBootstrap](https://react-bootstrap.github.io/) - CSS Framework
 - [.NET Core](https://www.mysql.com/) - C# Framework
-- [MySQL](https://docs.microsoft.com/pt-br/dotnet/fundamentals/) - Database
+- [MySQL](https://www.mysql.com/) - Database
 
 ## ✍️ Autores <a name = "autores"></a>
 
