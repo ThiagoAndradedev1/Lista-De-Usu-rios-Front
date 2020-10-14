@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center"> Projeto realizado utilizando as ferramentas do .NET Core, React e Bootstrap.
+<p align="center"> Projeto realizado utilizando as ferramentas do .NET Core, React, Bootstrap e MySQL.
     <br> 
 </p>
 
